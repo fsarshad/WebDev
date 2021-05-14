@@ -1,2 +1,2 @@
 # WebDev
-# Prototype code for the infivifual listing page in the indivpage file. 
+# Prototype code for the infividual listing page in the "indivpage" file. 
